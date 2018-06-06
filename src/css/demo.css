@@ -1,0 +1,38 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px white inset;
+}
+
+table {
+    font-family: arial, sans-serif;
+    table-layout: fixed;
+}
+
+th {
+    font-size: 15px;
+}
+
+.sort-button {
+     background-color: inherit;
+     border: none;
+     cursor: pointer;
+     margin-left:-6px;
+     outline: none;
+}
+
+.panel-heading .form-control {
+    height: 80%;
+    width: 30%;
+    margin-top: 17px;
+}
+
+.panel {
+    margin-top: 2%;
+}
